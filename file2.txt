@@ -1,0 +1,2 @@
+This is file2
+File2 content
